@@ -1,0 +1,1 @@
+## Project patterns [![Build status](https://ci.appveyor.com/api/projects/status/m4e5m15nsc0sp99d?svg=true)](https://ci.appveyor.com/project/TimurYo/patterns)
